@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from "vue";
 </script>
 
 <template>
@@ -10,6 +9,7 @@ import { ref } from "vue";
         <li class="mx-4 text-lg cursor-pointer hover:text-indigo-900">Documentation</li>
         <li class="mx-4 text-lg cursor-pointer hover:text-indigo-900">Templates</li>
         <li class="mx-4 text-lg cursor-pointer hover:text-indigo-900">About</li>
+        <button class="btn btn-primary capitalize">Start</button>
       </ul>
   </div>
 </template>
