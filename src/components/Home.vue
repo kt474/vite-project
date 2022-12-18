@@ -14,6 +14,12 @@
       </p>
       <button class="btn btn-primary capitalize">Get started</button>
     </div>
+    <div class="container pt-28 px-32">
+      <h2 class="text-4xl font-semibold pb-12">Templates</h2>
+      <div>
+        <div class="bg-slate-200 w-48 h-48"></div>
+      </div>
+    </div>
   </div>
 </template>
 

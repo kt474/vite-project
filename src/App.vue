@@ -11,9 +11,9 @@ import Footer from "./components/Footer.vue";
     <div class="container mx-auto px-16">
       <Navbar />
       <Home />
-      <Footer />
     </div>
   </div>
+  <Footer />
 </template>
 
 <style scoped></style>
